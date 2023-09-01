@@ -1,12 +1,12 @@
 {
   "name": "react-minimal-datetime-range",
-  "version": "2.0.9",
+  "version": "1.0.0",
   "description": "A react component for date time range picker.",
   "main": "index.js",
   "types": "./lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edwardfxiao/react-minimal-datetime-range.git"
+    "url": "git+https://github.com/LuizEduPP/react-minimal-datetime-range.git"
   },
   "keywords": [
     "react",

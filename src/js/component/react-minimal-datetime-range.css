@@ -295,8 +295,9 @@
 .react-minimal-datetime-range-calendar__table {
   display: table;
   border-collapse: collapse;
-  border-collapse: initial !important\9;
+  border-collapse: initial !important \9;
   margin: 0 auto;
+  width: 100%;
 }
 
 @media all and (-ms-high-contrast: none) {
