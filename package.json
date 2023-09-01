@@ -1,5 +1,5 @@
 {
-  "name": "react-minimal-datetime-range",
+  "name": "react-minimal-datetime-range-plus",
   "version": "1.0.0",
   "description": "A react component for date time range picker.",
   "main": "index.js",
