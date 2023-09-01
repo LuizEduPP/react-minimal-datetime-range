@@ -2,15 +2,15 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![npm version](https://badge.fury.io/js/react-minimal-datetime-range.svg)](https://badge.fury.io/js/react-minimal-datetime-range) ![Cdnjs](https://img.shields.io/cdnjs/v/react-minimal-datetime-range) ![npm bundle size (minified + gzip)](https://img.shields.io/bundlephobia/minzip/react-minimal-datetime-range.svg) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/edwardfxiao/react-minimal-datetime-range/master/LICENSE) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![npm version](https://badge.fury.io/js/react-minimal-datetime-range.svg)](https://badge.fury.io/js/react-minimal-datetime-range) ![Cdnjs](https://img.shields.io/cdnjs/v/react-minimal-datetime-range) ![npm bundle size (minified + gzip)](https://img.shields.io/bundlephobia/minzip/react-minimal-datetime-range.svg) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/luizedupp/react-minimal-datetime-range/master/LICENSE) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 A react component for date time range picker. Online demo examples.
-# <img src="https://raw.githubusercontent.com/edwardfxiao/react-minimal-datetime-range/master/react-minimal-datetime-range.gif" />
+# <img src="https://raw.githubusercontent.com/luizedupp/react-minimal-datetime-range/master/react-minimal-datetime-range.gif" />
 
 # Online Demo
-<a href="https://edwardfxiao.github.io/react-minimal-datetime-range/">Online demo example</a>
+<a href="https://luizedupp.github.io/react-minimal-datetime-range/">Online demo example</a>
 
-<a href="https://github.com/edwardfxiao/react-minimal-datetime-range/blob/gh-pages/example/index.js">Demo source code</a>
+<a href="https://github.com/luizedupp/react-minimal-datetime-range/blob/gh-pages/example/index.js">Demo source code</a>
 
 # Codesandbox Examples
 * <a href="https://codesandbox.io/s/index-z90y9">Live playground</a> (Make sure window width is greater than 900 for better experience)
@@ -158,8 +158,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-   <td align="center"><a href="https://github.com/edwardfxiao"><img src="https://avatars.githubusercontent.com/u/11728228?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Edward Xiao</b></sub></a><br /><a href="https://github.com/edwardfxiao/react-minimal-datetime-range/commits?author=edwardfxiao" title="Code">💻</a> <a href="https://github.com/edwardfxiao/react-minimal-datetime-range/commits?author=edwardfxiao" title="Documentation">📖</a> <a href="#infra-edwardfxiao" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/edwardfxiao/react-minimal-datetime-range/commits?author=edwardfxiao" title="Tests">⚠️</a> <a href="https://github.com/edwardfxiao/react-minimal-datetime-range/pulls?q=is%3Apr+reviewed-by%3Aedwardfxiao" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/ryush00"><img src="https://avatars.githubusercontent.com/u/4997174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ryush00</b></sub></a><br /><a href="https://github.com/edwardfxiao/react-minimal-datetime-range/commits?author=ryush00" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/luizedupp"><img src="https://avatars.githubusercontent.com/u/11728228?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Edward Xiao</b></sub></a><br /><a href="https://github.com/luizedupp/react-minimal-datetime-range/commits?author=luizedupp" title="Code">💻</a> <a href="https://github.com/luizedupp/react-minimal-datetime-range/commits?author=luizedupp" title="Documentation">📖</a> <a href="#infra-luizedupp" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/luizedupp/react-minimal-datetime-range/commits?author=luizedupp" title="Tests">⚠️</a> <a href="https://github.com/luizedupp/react-minimal-datetime-range/pulls?q=is%3Apr+reviewed-by%3Aluizedupp" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/ryush00"><img src="https://avatars.githubusercontent.com/u/4997174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ryush00</b></sub></a><br /><a href="https://github.com/luizedupp/react-minimal-datetime-range/commits?author=ryush00" title="Code">💻</a></td>
   </tr>
 </table>
 

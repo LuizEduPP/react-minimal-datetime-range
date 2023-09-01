@@ -26,9 +26,9 @@
   "author": "Edward Xiao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/edwardfxiao/react-minimal-datetime-range/issues"
+    "url": "https://github.com/luizedupp/react-minimal-datetime-range/issues"
   },
-  "homepage": "https://edwardfxiao.github.io/react-minimal-datetime-range",
+  "homepage": "https://luizedupp.github.io/react-minimal-datetime-range",
   "scripts": {
     "tslint": "tslint -c tslint.json 'src/**/*.{ts,tsx}'",
     "build_gh_page": "rm -rf lib && rm -rf dist && NODE_ENV=production ./node_modules/.bin/webpack --config ./webpack/production.config.babel.js --progress",
