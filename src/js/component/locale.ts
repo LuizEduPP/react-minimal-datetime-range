@@ -19,6 +19,23 @@ let locale: IObjectKeys = {
     start: 'Start',
     end: 'End',
   },
+  'pt-br': {
+    today: 'Hoje',
+    reset: 'Reset',
+    'reset-date': 'Redefinir Data',
+    clear: 'Limpar',
+    now: 'Agora',
+    weeks: ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'],
+    months: ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'],
+    date_format: (month: Number, year: Number) => {
+      return `${month} ${year}`;
+    },
+    date: 'Selecionar data',
+    time: 'Selecionar hora',
+    confirm: 'Confirmar',
+    start: 'Início',
+    end: 'Fim',
+  },
   'zh-cn': {
     today: '今天',
     reset: '重置',
